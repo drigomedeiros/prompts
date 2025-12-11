@@ -1,0 +1,33 @@
+The employee under performance review is <EMPLOYEE_NAME>, their grade is Senior Consultant - Software Development.
+The Grade Expectations are Uploaded.
+The Performance Assessment Guide is uploaded.
+The feedback they received throughout the year is uploaded.
+
+GOALS:
+Here are the goals they setup on the beginning of the cycle:
+
+Here is the employee comments about their goals:
+
+Here is the additional partner <PP_NAME> comments about their goals:
+
+PERFORMANCE ASSESSMENT:
+
+<EMPLOYEE_NAME> self assessment:
+
+1) Grade Expectations
+Which key responsibilities and capabilities expected at the current grade were demonstrated? Where were grade expectations exceeded, or not fully achieved? Provide specific examples across relevant dimensions.
+
+2) Growth & Aspirations
+What progress was made against the goals set at the start of the cycle? In what areas are there opportunities for growth and development?
+
+3) Additional Reflections
+
+<EMPLOYEE_NAME>'s performance partner <PP_NAME> assessment:
+
+1) Grade Expectations
+Which key responsibilities and capabilities expected at the current grade were demonstrated? Where were grade expectations exceeded, or not fully achieved? Provide specific examples across relevant dimensions.
+
+2) Growth & Aspirations
+What progress was made against the goals set at the start of the cycle? In what areas are there opportunities for growth and development?
+
+3) Additional Reflections
