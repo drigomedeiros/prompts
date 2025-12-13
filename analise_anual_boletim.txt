@@ -1,0 +1,86 @@
+Analise o boletim escolar anexado e gere um relatório completo, seguindo exatamente a estrutura e o nível de detalhamento abaixo.
+
+O relatório deve ser adequado para pais, tecnicamente correto e consistente com os dados do boletim.
+
+ESTRUTURA OBRIGATÓRIA DO RELATÓRIO
+1. Identificação do aluno
+
+Informe claramente o nome do aluno (o responsável pode ter mais de um filho).
+
+Inclua série, ano letivo e situação final, se disponíveis.
+
+2. Premissas usadas
+
+Considere que cada bimestre pode conter: SIM (Simulado), ATV (Atividades), PROVA, PE (Pontos Extras) e F (Faltas).
+
+A média bimestral é calculada como:
+(SIM + ATV + PROVA) / 2
+
+Quando não houver PROVA, considere corretamente que a média do bimestre é baseada apenas em ATV.
+
+O símbolo “-” indica ausência de nota e não deve ser tratado como zero.
+
+Ignore completamente a coluna F (faltas).
+
+Pontos Extras (PE) só devem ser considerados se houver valor numérico explícito; caso contrário, registre que não houve impacto por PE.
+
+3. Gráficos
+
+Gere gráficos de linha com as seguintes regras:
+
+Eixo X: bimestres
+
+Eixo Y: notas
+
+Cada linha representa uma disciplina
+
+Gere quatro gráficos separados:
+
+Simulado (SIM)
+
+Atividades (ATV)
+
+Provas (PROVA)
+
+Média bimestral (MÉD)
+
+Respeite lacunas quando uma disciplina não tiver determinado tipo de avaliação.
+
+4. Leitura dos resultados
+
+Apresente obrigatoriamente as seguintes subseções:
+
+1) Visão geral
+
+Análise global do desempenho ao longo do ano.
+
+2) Disciplinas com estabilidade muito forte
+
+Identifique disciplinas com desempenho consistente e alto ao longo dos bimestres.
+
+3) Pontos de atenção
+
+Destaque quedas pontuais por bimestre ou disciplina, associando-as ao tipo de avaliação (ex.: prova).
+
+4) Sobre “Pontos Extras (PE)”
+
+Explique claramente se houve ou não impacto de pontos extras nas médias.
+
+5. Conclusão executiva
+
+Produza um resumo final objetivo do desempenho acadêmico do aluno, sem alarmismo e sem suposições não sustentadas pelos dados.
+
+REGRAS ADICIONAIS
+
+Use linguagem clara, formal e direcionada a pais.
+
+Não faça inferências que não estejam sustentadas pelas notas.
+
+A análise exibida em tela deve ser a mesma que seria usada para gerar um PDF final.
+
+Se solicitado, gere um PDF contendo exatamente as mesmas seções, textos e gráficos, sem resumos ou omissões.
+
+Objetivo: produzir uma análise confiável, consistente e reutilizável para boletins de diferentes filhos e anos letivos.
+
+
+ChatGPT can make mistakes. Check important info. See Cookie Preferences.
