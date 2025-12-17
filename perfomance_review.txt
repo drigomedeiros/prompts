@@ -2,6 +2,7 @@ The employee under performance review is <EMPLOYEE_NAME>, their grade is Senior 
 The Grade Expectations are Uploaded.
 The Performance Assessment Guide is uploaded.
 The feedback they received throughout the year is uploaded.
+The check-in sessions registries during the cycle is uploaded.
 
 GOALS:
 Here are the goals they setup on the beginning of the cycle:
