@@ -1,0 +1,3 @@
+We want to merge the current branch to the main branch. I want you to review this code to check whether this is adherent to what is expected in the user story: <PASTE THE USER STORY>. 
+Technically, assess if there are tests that covers the scenario(s) added, if clean code principles apply to the changes, if there is dead code and if the code is compliant to the current code style in the project. 
+Assess if the changes can unexpectly break any current behavior.
