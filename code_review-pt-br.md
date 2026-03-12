@@ -6,6 +6,7 @@ Revise a branch atual considerando o alvo do diff e o contexto de negócio abaix
 
   User story / contexto de negócio:
   <COLE A USER STORY AQUI>
+  
 
   Critérios de aceitação:
   <COLE OS CRITÉRIOS DE ACEITAÇÃO, SE HOUVER>
