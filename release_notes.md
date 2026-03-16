@@ -1,13 +1,13 @@
   We are preparing a production deployment for the service `<SERVICE_NAME>`.
 
   Deployment context:
-  - Audience: <Business|Tech Manager>
-  - Environment: <PROD|STAGE>
+  - Audience: `<Business|Tech Manager>`
+  - Environment: `<PROD|STAGE>`
   - Current tag: `<CURRENT_PROD_TAG>`
   - Target deployment tag: `<TARGET_TAG>`
   - Repository path: `<REPO_PATH>`
   - Output file: `<OUTPUT_FILE>`
-  - Exclude non-prod-only changes? <YES|NO>
+  - Exclude non-prod-only changes? `<YES|NO>`
 
   Task:
   Create a production release notes document describing the changes between `<CURRENT_PROD_TAG>` and `<TARGET_TAG>`.
